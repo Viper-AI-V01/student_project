@@ -7,4 +7,5 @@ ipykernel
 setuptools
 catboost
 xgboost
+dill
 -e .
